@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP-2REST</string>
+    <string name="login">Identifiant</string>
+    <string name="password">Mot de Passe</string>
+    <string name="se_connecter">Se connecter</string>
+</resources>
